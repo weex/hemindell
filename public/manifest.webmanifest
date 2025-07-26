@@ -2,7 +2,7 @@
   "name": "Shakespeare Projects",
   "short_name": "Shakespeare",
   "description": "Manage your Shakespeare AI projects with prompts, notes, and resources.",
-  "start_url": "/",
+  "start_url": "/hemindell",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
