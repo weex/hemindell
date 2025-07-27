@@ -8,7 +8,7 @@ export default defineConfig(() => ({
   server: {
     host: "::",
     port: 8080,
-    base: "/hemindell/",
+    base: '/hemindell/',
   },
   plugins: [
     react(),
